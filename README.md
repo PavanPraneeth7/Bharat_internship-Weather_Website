@@ -50,4 +50,5 @@ OpenWeatherMap API - for providing weather data.
 
 
 Contributing
+
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. For major changes, please open an issue first to discuss what you would like to change.
