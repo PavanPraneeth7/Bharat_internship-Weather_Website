@@ -33,7 +33,7 @@ Open index.html in your preferred web browser.
 
 Usage
 Enter the name of the city for which you want to check the weather in the search box.
-Click on the search button or press Enter.
+Click on the search button or press Enter. 
 The application will fetch the weather data from the OpenWeatherMap API and display it on the screen.
 Enjoy the dynamic CSS animations representing the current weather conditions!
 
