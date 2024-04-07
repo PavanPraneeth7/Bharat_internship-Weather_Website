@@ -7,7 +7,7 @@ This is a simple weather application that displays the current weather condition
 
 ## Preview
 
-  - Click here to preview the website  
+  - Click here to preview the website   https://pavanpraneeth7.github.io/Bharat_internship-Weather_Website/
 
 ## Features
 
