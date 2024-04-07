@@ -2,6 +2,13 @@
 
 This is a simple weather application that displays the current weather conditions of a city using data fetched from the OpenWeatherMap API. The application features dynamic CSS animations to reflect the current weather conditions visually.
 
+
+
+
+## Preview
+
+  - Click here to preview the website  
+
 ## Features
 
 - Allows users to search for weather information of any city.
