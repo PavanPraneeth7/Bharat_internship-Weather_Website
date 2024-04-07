@@ -31,7 +31,7 @@ Navigate into the project directory:
 Open index.html in your preferred web browser.
 
 
-Usage
+# Usage
 
 Enter the name of the city for which you want to check the weather in the search box.
 
@@ -42,13 +42,13 @@ The application will fetch the weather data from the OpenWeatherMap API and disp
 Enjoy the dynamic CSS animations representing the current weather conditions!
 
 
-Credits
+# Credits
 
 Font Awesome - for icons.
 
 OpenWeatherMap API - for providing weather data.
 
 
-Contributing
+# Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. For major changes, please open an issue first to discuss what you would like to change.
